@@ -1,4 +1,4 @@
-# Sing-box Config Partner 🛠️
+# Sing-box Config Converter🛠️
 
  一个强大且灵活的 Sing-box 配置生成器与管理工具，专为 Cloudflare Workers 设计。支持最新的 Sing-box (1.11+) 语法规范，提供直观的 Web UI 进行配置调整。
 
