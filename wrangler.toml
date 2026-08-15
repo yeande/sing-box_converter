@@ -5,7 +5,7 @@ compatibility_date = "2024-01-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "subscribe"
-database_id = ""
+database_id = "3146c422-02b3-4b7c-a999-50757fc6170b"
 migrations_dir = "./drizzle/migrations"
 
 [[rules]]
